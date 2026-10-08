@@ -9,7 +9,7 @@ A telecom company is losing customers. Which customers leave, why, and what shou
 Telco Customer Churn (IBM sample dataset): about 7,000 customers, 21 columns. The target column is `Churn` (Yes/No).
 
 ## Tools
-Python, pandas, Matplotlib, scikit-learn, Google Colab
+Python, SQLite , PowerBI, pandas, Matplotlib, scikit-learn, Google Colab
 
 ## Approach
 1. Loaded and inspected the data
@@ -18,6 +18,10 @@ Python, pandas, Matplotlib, scikit-learn, Google Colab
 4. Compared churn by contract type, internet service, payment method, tech support, senior citizen status, and tenure
 5. Identified the highest-risk customer segment and estimated revenue at risk
 6. Built a simple logistic regression model as an extra
+
+##Dashboard
+<img width="1309" height="737" alt="dashboard" src="https://github.com/user-attachments/assets/c2f6d0f3-7774-4f4b-9e6e-e3aefd41d327" />
+
 
 ## Key findings
 - Overall churn rate: 26.6%
